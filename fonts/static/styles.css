@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Manrope-Regular";
+  src: url(./Manrope-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Manrope-Bold";
+  src: url(./Manrope-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Manrope-ExtraBold";
+  src: url(./Manrope-ExtraBold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Manrope-Light";
+  src: url(./Manrope-Light.woff2) format("woff2");
+}
